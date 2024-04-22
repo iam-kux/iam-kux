@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iam-kux
 - 👀 I’m interested in Mobile Apps Development and Python
 - 🌱 I’m currently learning Python3
-- 💞️ I’m looking to collaborate on <anything crazzzzy>
+- 💞️ I’m looking to collaborate on <anything @crazy>
 - 📫 How to reach me <instagram @kux.zw>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: <i can code in morse😄😄😄😄>
