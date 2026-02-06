@@ -1,4 +1,4 @@
-# Kux
+# About Me
 CEO, SplineSoft Technologies
 
 Mobile App & Web Developer
