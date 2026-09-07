@@ -4,7 +4,7 @@ CEO, SplineSoft Technologies
 Mobile App & Web Developer
 
 ## Current Work
-* **SplineSoft Technologies:** Founding CEO. Building software solutions for the mining and education sectors.
+* **SplineSoft Technologies:** Founding CEO.
 * **VarsitySpace:** Student accommodation platform for Zimbabwe.
 
 ## Technical Stack
